@@ -1,2 +1,2 @@
-language = "javascript"
-run = "npm install && npm start"
+language = "javascript";
+run = "npm install && npm start";
